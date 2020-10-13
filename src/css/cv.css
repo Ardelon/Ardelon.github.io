@@ -1,11 +1,25 @@
 body {
-    margin : 0;
-    background-color: black;
-    
+  overflow:hidden;
+  height: 100%;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  }
+.profile-bar {
+  height:100%
+}
+
+.profile-bar-personal-name {
+  background-color:black;
+}
+
+.profile-bar-description {
+  background-color:black;
+}
+
+.profile-bar-contact-container {
+  background-color:black;
+  position:absolute;
+  bottom:0;
+  height:25%;
+}
+
+
