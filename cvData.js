@@ -112,3 +112,7 @@ const data =  [
         ]
     }
 ]
+
+Kart dikdörtgen avatar yuvarlak boyutlar küçültülüyor linkedin github mail logosu ekle
+Organizasyonu ekle github gibi logo koydum skillere staj ekle resim çekin
+ardelon.github.io
